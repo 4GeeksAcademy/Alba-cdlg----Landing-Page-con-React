@@ -8,7 +8,8 @@ function Home() {
     <>
       <NavbarComponent />
       <Container className="mt-4">
-        <h1>Bienvenido a mi Landing Page</h1>
+        <Jumbotron />
+        {/* <h1>Bienvenido a mi Landing Page</h1> */}
       </Container>
     </>
   );
